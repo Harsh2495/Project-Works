@@ -8,8 +8,7 @@
 
 ## Tableau Dashboards & Stories - 
 
-* Employee Database Breakdown Analysis(Gender)
-[Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442/)
+* [Employee Database Breakdown Analysis(Gender)](https://public.tableau.com/app/profile/qwerty8145/viz/Book1_16631553863960/Dashboard1)
 
 
 
