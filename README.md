@@ -1,4 +1,4 @@
-# Project-Works
+# Projects
 
 
 ## SQL & Python - 
